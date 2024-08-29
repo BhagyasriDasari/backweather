@@ -31,4 +31,4 @@ node server.js
 Open your browser and go to http://localhost:5000. You will see a form where you can enter a city name to fetch and display the current weather.
 
 
-Deployed Link:
+Deployed Link:https://backweather.onrender.com/
